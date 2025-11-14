@@ -56,10 +56,6 @@ The proposed approach involves the following steps:
 - **Benefits**: Combines CNN features and pre-existing knowledge from VGGFace. Multi-modal approach including additional features.
 - **Limitations**: Uneven age distribution in dataset might affect performance. Future work could address this with data balancing techniques.
 
-## Future Work
-- Explore additional preprocessing techniques.
-- Investigate methods to handle age group imbalance.
-- Implement and evaluate eye openness detection.
 
 
 You can download the dataset from the following link: [Age Detection](https://www.kaggle.com/datasets/trainingdatapro/age-detection-human-faces-18-60-years)
